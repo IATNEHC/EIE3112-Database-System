@@ -1,0 +1,21 @@
+After creating tables and inserting data, please check your tables by executing the following statements ONE BY ONE.
+
+--------------------------------------------------------------------
+Tutorial 1A
+
+SELECT * FROM categories;
+SELECT * FROM customers;
+SELECT * FROM employees;
+SELECT * FROM orders;
+SELECT * FROM order_details;
+SELECT * FROM products;
+SELECT * FROM shippers;
+SELECT * FROM suppliers;
+--------------------------------------------------------------------
+
+Tutorial 1B
+
+SELECT * FROM items_ordered;
+SELECT * FROM customers;
+
+--------------------------------------------------------------------
